@@ -55,7 +55,7 @@ header nav ul {
 }
 header nav ul a {
   color: black;
-  padding: 0.75em 2em;
+  padding: 0.75em 1em;
   display: block;
 }
 header nav ul a:hover {
@@ -162,6 +162,7 @@ section.hero .down-arrow path {
   }
   header > nav ul a:hover {
     text-decoration: underline;
+    background-color: transparent;
   }
   .logo {
     color: black;

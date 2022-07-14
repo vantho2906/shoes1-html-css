@@ -56,7 +56,7 @@ header {
 
             a {
                 color: black;
-                padding: 0.75em 2em;
+                padding: 0.75em 1em;
                 display: block;
 
                 &:hover {
@@ -167,7 +167,7 @@ section.hero {
                 color: white  ;
                 &:hover {
                     text-decoration: underline;
-                    
+                    background-color: transparent;
                 }
             }
         }
